@@ -1,5 +1,5 @@
 # ngeru-shell
-its a simple shell made in c.
+a simple shell made in c.
 #
 usage: <br />
 chmod +x runner.sh <br />
